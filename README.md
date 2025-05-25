@@ -84,7 +84,7 @@ streamlit run home.py
 
 ---
 
-## âš™ï¸ Built-in Assumptions
+## Built-in Assumptions
 
 - Course level is inferred from the course code (e.g., `CS311` â†’ level 3)
 - Certain rules are hardcoded (e.g., number of electives, internship placement)
@@ -97,7 +97,7 @@ else:
 
 ---
 
-## ðŸ§  Future Improvements
+## Future Improvements
 
 - Integration with live student info systems
 - Real-time academic alerts
@@ -106,6 +106,6 @@ else:
 
 ---
 
-## ðŸ™Œ Acknowledgments
+## Acknowledgments
 
 Built for academic planning and student success by combining the power of graphs and AI. Contributions are welcome!
